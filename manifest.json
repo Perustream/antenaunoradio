@@ -1,0 +1,20 @@
+{
+  "name": "Antena Uno Radio",
+  "short_name": "AntenaUno",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0000FF",
+  "theme_color": "#0000FF",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/SsFWKv5y/Picsart-25-07-05-20-51-39-612.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.postimg.cc/SsFWKv5y/Picsart-25-07-05-20-51-39-612.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
